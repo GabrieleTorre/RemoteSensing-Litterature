@@ -6,6 +6,7 @@ https://github.com/radiantearth/crop-loss-EPAR
 
 https://github.com/isikdogan/deepwatermap
 
+https://github.com/VSainteuf/utae-paps -> parcell segmentation
 
 
 
